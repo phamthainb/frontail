@@ -1,3 +1,7 @@
+# Update
+- enable choose file from UI (dropdown)
+- Search full log file
+
 # frontail – streaming logs to the browser
 
 `frontail` is a Node.js application for streaming logs to the browser. It's a `tail -F` with UI.
